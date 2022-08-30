@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.205.139.209:8081/repository/jenkin_release/</url>
+	      <name>Sharath Releases Nexus Repository</name>
+	      <url>http://13.126.146.243:8081/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.205.139.209:8081/repository/Jenkins_snapshot/</url>
+	      <name>Sharath Snapshot Nexus Repository </name>
+	      <url>http://13.126.146.243:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
