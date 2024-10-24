@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.66.27.119:9000/</sonar.host.url>
+		<sonar.host.url>http://3.70.54.2:9000/</sonar.host.url>
                 <sonar.login>sqa_bda1f414505dac33700827ae8c6fb1e0882a8add</sonar.login>
 		
              
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Sharath Releases Nexus Repository</name>
-	      <url>http://52.59.248.6:8081/repository/facebook-release/</url>
+	      <url>http://35.159.172.212:8081/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Sharath Snapshot Nexus Repository </name>
-	      <url>http://52.59.248.6:8081/repository/facebook-snapshot/</url>
+	      <url>http://35.159.172.212:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
